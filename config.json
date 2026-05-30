@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokeneelete",
+        "uuid": 3435032,
+        "checksum": "0tzdbg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
